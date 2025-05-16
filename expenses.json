@@ -1,0 +1,32 @@
+[
+    {
+        "amount": 100.0,
+        "category": "food",
+        "note": "pasta",
+        "date": "2025-05-16"
+    },
+    {
+        "amount": 3000.0,
+        "category": "petrol",
+        "note": "car",
+        "date": "2025-05-16"
+    },
+    {
+        "amount": 200.0,
+        "category": "cng",
+        "note": "car",
+        "date": "2025-05-16"
+    },
+    {
+        "amount": 4000.0,
+        "category": "travel",
+        "note": "rishikesh",
+        "date": "2025-05-16"
+    },
+    {
+        "amount": 50.0,
+        "category": "food",
+        "note": "chocolate",
+        "date": "2025-05-16"
+    }
+]
